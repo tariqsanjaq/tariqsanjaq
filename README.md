@@ -1,16 +1,17 @@
-## Hi there 👋
+# Tariq Sanjaq
 
-<!--
-**tariqsanjaq/tariqsanjaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (Al-Ahliyya Amman University, 2026) building mobile apps. Based in the UAE.
 
-Here are some ideas to get you started:
+- **Now:** learning Kotlin and Jetpack Compose by building a currency converter
+- **Mobile:** Android (Java, SQLite), Flutter + Firebase
+- **Also:** C# / .NET, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[Coasterna](https://github.com/tariqsanjaq/coasterna)**: Flutter + Firebase app for university coaster-bus routes. Team lead; built the admin dashboard and the Firebase setup, and collected GPS route data.
+- **[Expense Tracker](https://github.com/tariqsanjaq/ExpenseTracker-Java-SQLite)**: native Android app in Java with SQLite.
+- **[C# / .NET course](https://github.com/tariqsanjaq/csharp-course-metigator)**: 21 tasks plus a capstone project.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/tariq-sanjaq)
